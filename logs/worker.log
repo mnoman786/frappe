@@ -1,0 +1,680 @@
+2024-07-08 17:04:49,776 Worker rq:worker:6973ff08508f4da3956ca56315883c0e started with PID 476930, version 1.15.1
+2024-07-08 17:04:49,776 Subscribing to channel rq:pubsub:6973ff08508f4da3956ca56315883c0e
+2024-07-08 17:04:49,780 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-07-08 17:04:49,782 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-08 17:04:49,787 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-08 17:04:49,790 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-08 17:04:51,634 Worker 6973ff08508f4da3956ca56315883c0e [PID 476930]: warm shut down requested
+2024-07-08 17:04:51,648 Unsubscribing from channel rq:pubsub:6973ff08508f4da3956ca56315883c0e
+2024-07-08 17:09:25,684 Worker rq:worker:34347c442d0c474392b20d9dcc8e592d started with PID 479578, version 1.15.1
+2024-07-08 17:09:25,684 Subscribing to channel rq:pubsub:34347c442d0c474392b20d9dcc8e592d
+2024-07-08 17:09:25,687 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-07-08 17:09:27,495 Worker 34347c442d0c474392b20d9dcc8e592d [PID 479578]: warm shut down requested
+2024-07-08 17:11:48,894 Worker rq:worker:79a6b9e2ed8b42a2b261f1b19a4ca473 started with PID 481072, version 1.15.1
+2024-07-08 17:11:48,894 Subscribing to channel rq:pubsub:79a6b9e2ed8b42a2b261f1b19a4ca473
+2024-07-08 17:11:48,955 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-07-08 17:12:13,558 Worker 79a6b9e2ed8b42a2b261f1b19a4ca473 [PID 481072]: warm shut down requested
+2024-07-08 17:12:13,559 Unsubscribing from channel rq:pubsub:79a6b9e2ed8b42a2b261f1b19a4ca473
+2024-07-08 17:13:30,024 Worker rq:worker:8e6fa7c72a194d5c8d30019e6df57d21 started with PID 482181, version 1.15.1
+2024-07-08 17:13:30,024 Subscribing to channel rq:pubsub:8e6fa7c72a194d5c8d30019e6df57d21
+2024-07-08 17:13:30,031 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-07-08 17:15:28,301 Worker 8e6fa7c72a194d5c8d30019e6df57d21 [PID 482181]: warm shut down requested
+2024-07-08 17:15:28,302 Unsubscribing from channel rq:pubsub:8e6fa7c72a194d5c8d30019e6df57d21
+2024-07-08 17:21:29,366 Worker rq:worker:a8e15259b2804133b7b7852d4de6d190 started with PID 486847, version 1.15.1
+2024-07-08 17:21:29,366 Subscribing to channel rq:pubsub:a8e15259b2804133b7b7852d4de6d190
+2024-07-08 17:21:29,405 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-07-08 17:21:29,422 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-08 17:21:29,454 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-08 17:21:29,491 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-08 17:22:27,556 Worker a8e15259b2804133b7b7852d4de6d190 [PID 486847]: warm shut down requested
+2024-07-08 17:22:27,558 Unsubscribing from channel rq:pubsub:a8e15259b2804133b7b7852d4de6d190
+2024-07-08 17:23:17,458 Worker rq:worker:c886e00cc843434fbb360b6fd56e2c7e started with PID 488113, version 1.15.1
+2024-07-08 17:23:17,458 Subscribing to channel rq:pubsub:c886e00cc843434fbb360b6fd56e2c7e
+2024-07-08 17:23:17,495 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-07-08 17:27:23,097 Worker c886e00cc843434fbb360b6fd56e2c7e [PID 488113]: warm shut down requested
+2024-07-08 17:27:23,100 Unsubscribing from channel rq:pubsub:c886e00cc843434fbb360b6fd56e2c7e
+2024-07-08 17:30:47,931 Worker rq:worker:321624e8355249eba36f468ae5496484 started with PID 492575, version 1.15.1
+2024-07-08 17:30:47,932 Subscribing to channel rq:pubsub:321624e8355249eba36f468ae5496484
+2024-07-08 17:30:47,945 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-07-08 17:31:13,611 Worker 321624e8355249eba36f468ae5496484 [PID 492575]: warm shut down requested
+2024-07-08 17:31:13,661 Unsubscribing from channel rq:pubsub:321624e8355249eba36f468ae5496484
+2024-07-08 18:23:24,229 Worker rq:worker:e13a1b7d84c5499ea1b6fc7e040c8352 started with PID 523481, version 1.15.1
+2024-07-08 18:23:24,230 Subscribing to channel rq:pubsub:e13a1b7d84c5499ea1b6fc7e040c8352
+2024-07-08 18:23:24,232 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-07-08 18:23:24,234 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-08 18:23:24,245 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-08 18:23:24,247 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-08 18:25:31,263 Worker e13a1b7d84c5499ea1b6fc7e040c8352 [PID 523481]: warm shut down requested
+2024-07-08 18:25:31,347 Unsubscribing from channel rq:pubsub:e13a1b7d84c5499ea1b6fc7e040c8352
+2024-07-08 18:36:29,689 Worker rq:worker:315469baf9ea43e9a5a378ea0fb2673e started with PID 534900, version 1.15.1
+2024-07-08 18:36:29,689 Subscribing to channel rq:pubsub:315469baf9ea43e9a5a378ea0fb2673e
+2024-07-08 18:36:29,690 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-07-08 18:39:35,910 Worker 315469baf9ea43e9a5a378ea0fb2673e [PID 534900]: warm shut down requested
+2024-07-08 18:39:35,911 Unsubscribing from channel rq:pubsub:315469baf9ea43e9a5a378ea0fb2673e
+2024-07-08 18:46:53,675 Worker rq:worker:361ef8f9166547ce9dc657ccf638bbfd started with PID 541495, version 1.15.1
+2024-07-08 18:46:53,675 Subscribing to channel rq:pubsub:361ef8f9166547ce9dc657ccf638bbfd
+2024-07-08 18:46:53,677 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-07-08 18:46:53,678 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-08 18:46:53,679 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-08 18:46:53,681 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-08 18:49:18,667 Worker 361ef8f9166547ce9dc657ccf638bbfd [PID 541495]: warm shut down requested
+2024-07-08 18:49:18,669 Unsubscribing from channel rq:pubsub:361ef8f9166547ce9dc657ccf638bbfd
+2024-07-08 18:51:02,335 Worker rq:worker:ab62fa7a74b848a487c19afd415e0599 started with PID 544320, version 1.15.1
+2024-07-08 18:51:02,335 Subscribing to channel rq:pubsub:ab62fa7a74b848a487c19afd415e0599
+2024-07-08 18:51:02,339 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-07-08 18:52:15,440 Worker ab62fa7a74b848a487c19afd415e0599 [PID 544320]: warm shut down requested
+2024-07-08 18:52:15,445 Unsubscribing from channel rq:pubsub:ab62fa7a74b848a487c19afd415e0599
+2024-07-08 18:52:20,034 Worker rq:worker:4b38924b27df4479bb6c29997b939c1b started with PID 545187, version 1.15.1
+2024-07-08 18:52:20,034 Subscribing to channel rq:pubsub:4b38924b27df4479bb6c29997b939c1b
+2024-07-08 18:52:20,051 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-07-08 18:53:07,375 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: mnomanch786@gmail.com>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::ed33e4ce-fc3d-49f0-9dfb-237f563efa6e)
+2024-07-08 18:53:09,705 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::ed33e4ce-fc3d-49f0-9dfb-237f563efa6e)
+2024-07-08 18:53:09,705 Result is kept for 600 seconds
+2024-07-08 18:53:09,717 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.update_gravatar', kwargs={'name': 'mnomanch786@gmail.com'}, method='frappe.core.doctype.user.user.update_gravatar', site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::5d90c158-f5ca-4b21-937c-86465d1d7aea)
+2024-07-08 18:53:10,690 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::5d90c158-f5ca-4b21-937c-86465d1d7aea)
+2024-07-08 18:53:10,691 Result is kept for 600 seconds
+2024-07-08 19:06:40,819 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-08 19:06:40,835 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-08 19:06:40,837 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-08 19:33:41,054 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-08 19:33:41,055 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-08 19:33:41,056 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-08 20:00:41,285 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-08 20:00:41,287 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-08 20:00:41,287 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-08 20:23:15,498 Worker 4b38924b27df4479bb6c29997b939c1b [PID 545187]: warm shut down requested
+2024-07-08 20:23:15,500 Unsubscribing from channel rq:pubsub:4b38924b27df4479bb6c29997b939c1b
+2024-07-10 17:21:27,497 Worker rq:worker:8099605a3a7249739df3f09333091dc9 started with PID 40927, version 1.15.1
+2024-07-10 17:21:27,498 Subscribing to channel rq:pubsub:8099605a3a7249739df3f09333091dc9
+2024-07-10 17:21:27,499 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-07-10 17:21:27,500 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-10 17:21:27,509 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-10 17:21:27,521 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-10 17:48:27,635 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-10 17:48:27,636 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-10 17:48:27,636 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-10 18:15:27,759 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-10 18:15:27,760 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-10 18:15:27,761 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-10 18:42:27,941 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-10 18:42:27,942 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-10 18:42:27,943 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-10 19:09:28,162 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-10 19:09:28,162 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-10 19:09:28,163 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-10 19:36:28,301 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-10 19:36:28,302 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-10 19:36:28,302 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-10 20:03:28,513 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-10 20:03:28,514 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-10 20:03:28,514 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-10 20:30:28,762 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-10 20:30:28,764 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-10 20:30:28,764 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-10 20:57:28,955 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-10 20:57:28,956 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-10 20:57:28,957 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-10 21:24:29,198 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-10 21:24:29,200 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-10 21:24:29,200 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-10 21:51:29,487 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-10 21:51:29,489 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-10 21:51:29,490 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-10 22:18:29,667 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-10 22:18:29,668 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-10 22:18:29,668 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 11:32:41,709 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 11:32:41,747 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 11:32:41,749 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 13:22:20,662 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 13:22:20,770 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 13:22:20,816 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 13:49:21,034 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 13:49:21,035 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 13:49:21,036 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 14:14:58,185 Worker 8099605a3a7249739df3f09333091dc9 [PID 40927]: warm shut down requested
+2024-07-11 14:14:58,192 Unsubscribing from channel rq:pubsub:8099605a3a7249739df3f09333091dc9
+2024-07-11 16:19:22,908 Worker rq:worker:73d03150b11e4ac3bc9a630acff1f097 started with PID 296238, version 1.15.1
+2024-07-11 16:19:22,908 Subscribing to channel rq:pubsub:73d03150b11e4ac3bc9a630acff1f097
+2024-07-11 16:19:22,909 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-07-11 16:19:22,910 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 16:19:22,912 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 16:19:22,913 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 16:22:00,621 Worker 73d03150b11e4ac3bc9a630acff1f097 [PID 296238]: warm shut down requested
+2024-07-11 16:22:00,623 Unsubscribing from channel rq:pubsub:73d03150b11e4ac3bc9a630acff1f097
+2024-07-11 16:22:09,264 Worker rq:worker:8b76475e48b544b9a0815854cf873fda started with PID 298103, version 1.15.1
+2024-07-11 16:22:09,264 Subscribing to channel rq:pubsub:8b76475e48b544b9a0815854cf873fda
+2024-07-11 16:22:09,277 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-07-11 16:35:39,390 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 16:35:39,392 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 16:35:39,393 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 17:02:39,584 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 17:02:39,585 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 17:02:39,587 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 17:29:39,888 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 17:29:39,889 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 17:29:39,889 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 17:56:40,026 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 17:56:40,028 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 17:56:40,029 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 18:23:40,250 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 18:23:40,251 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 18:23:40,253 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 18:50:40,428 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 18:50:40,429 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 18:50:40,430 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 19:17:40,635 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 19:17:40,640 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 19:17:40,655 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 19:44:40,779 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 19:44:40,780 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 19:44:40,781 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 20:11:40,964 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 20:11:40,969 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 20:11:41,089 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 20:38:41,413 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 20:38:41,416 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 20:38:41,432 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 21:05:41,703 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 21:05:41,704 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 21:05:41,705 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 21:32:41,907 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 21:32:41,915 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 21:32:41,920 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 21:59:42,047 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 21:59:42,048 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 21:59:42,050 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 22:26:42,221 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 22:26:42,222 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 22:26:42,223 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-11 22:53:42,521 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-11 22:53:42,691 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-11 22:53:42,712 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 13:47:43,700 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 13:47:43,783 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 13:47:43,866 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 14:14:44,053 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 14:14:44,054 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 14:14:44,054 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 14:41:44,225 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 14:41:44,226 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 14:41:44,227 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 15:08:44,538 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 15:08:44,539 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 15:08:44,540 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 15:35:44,667 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 15:35:44,669 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 15:35:44,670 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 16:02:44,900 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 16:02:44,901 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 16:02:44,902 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 16:29:45,184 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 16:29:45,185 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 16:29:45,186 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 16:56:45,483 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 16:56:45,484 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 16:56:45,501 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 17:23:45,636 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 17:23:45,637 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 17:23:45,641 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 17:50:45,778 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 17:50:45,780 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 17:50:45,780 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 18:17:46,049 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 18:17:46,050 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 18:17:46,051 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 18:44:46,191 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 18:44:46,192 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 18:44:46,193 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 19:11:46,436 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 19:11:46,437 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 19:11:46,438 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 19:38:46,689 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 19:38:46,690 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 19:38:46,691 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 20:05:46,919 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 20:05:46,919 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 20:05:46,920 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 20:32:47,135 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 20:32:47,136 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 20:32:47,137 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 20:59:47,270 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 20:59:47,271 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 20:59:47,272 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 21:26:47,486 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-07-12 21:26:47,486 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-07-12 21:26:47,487 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-07-12 21:39:43,544 Unsubscribing from channel rq:pubsub:8b76475e48b544b9a0815854cf873fda
+2024-08-02 18:17:46,502 Worker rq:worker:11b37f4334bf47bfb6e0c4799aa67a78 started with PID 94497, version 1.15.1
+2024-08-02 18:17:46,503 Subscribing to channel rq:pubsub:11b37f4334bf47bfb6e0c4799aa67a78
+2024-08-02 18:17:46,504 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-08-02 18:17:46,505 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-02 18:17:46,507 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-02 18:17:46,509 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-02 18:20:20,083 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: Administrator>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::4c98817d-dccc-4d06-bdf6-427205c6f32f)
+2024-08-02 18:20:20,914 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::4c98817d-dccc-4d06-bdf6-427205c6f32f)
+2024-08-02 18:20:20,914 Result is kept for 600 seconds
+2024-08-02 18:21:08,303 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: Administrator>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::617cafa1-dad3-4dcb-b9c6-2b4a70782aad)
+2024-08-02 18:21:09,142 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::617cafa1-dad3-4dcb-b9c6-2b4a70782aad)
+2024-08-02 18:21:09,142 Result is kept for 600 seconds
+2024-08-02 18:23:11,368 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: Administrator>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::2c4b18bb-cf82-4eb3-bf9a-8614e64945bb)
+2024-08-02 18:23:12,312 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::2c4b18bb-cf82-4eb3-bf9a-8614e64945bb)
+2024-08-02 18:23:12,312 Result is kept for 600 seconds
+2024-08-02 18:28:26,047 Worker 11b37f4334bf47bfb6e0c4799aa67a78 [PID 94497]: warm shut down requested
+2024-08-02 18:28:46,948 Worker rq:worker:113cf9693aa641139133f587c817ec62 started with PID 103315, version 1.15.1
+2024-08-02 18:28:46,949 Subscribing to channel rq:pubsub:113cf9693aa641139133f587c817ec62
+2024-08-02 18:28:46,952 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-08-02 18:42:17,069 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-02 18:42:17,070 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-02 18:42:17,071 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-02 18:43:01,557 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Comment', 'name': '1lv7d8qus1'}, method='frappe.model.delete_doc.delete_dynamic_links', site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::d71fb0fb-95cf-4f9a-af56-849d9a247de4)
+2024-08-02 18:43:01,831 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::d71fb0fb-95cf-4f9a-af56-849d9a247de4)
+2024-08-02 18:43:01,832 Result is kept for 600 seconds
+2024-08-02 18:50:18,725 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'DocType'}, method='frappe.utils.global_search.rebuild_for_doctype', site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::04026839-f49a-4813-9b15-171f5ffca608)
+2024-08-02 18:50:20,047 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::04026839-f49a-4813-9b15-171f5ffca608)
+2024-08-02 18:50:20,048 Result is kept for 600 seconds
+2024-08-02 18:51:16,697 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.utils.global_search.rebuild_for_doctype', kwargs={'doctype': 'DocType'}, method='frappe.utils.global_search.rebuild_for_doctype', site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::387cdc14-1eef-4dae-bd37-bb6b6f5a15cc)
+2024-08-02 18:51:17,930 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::387cdc14-1eef-4dae-bd37-bb6b6f5a15cc)
+2024-08-02 18:51:17,931 Result is kept for 600 seconds
+2024-08-02 18:58:02,966 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-02 18:58:02,968 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-02 18:58:02,969 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-02 19:25:03,163 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-02 19:25:03,164 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-02 19:25:03,166 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-02 19:33:26,241 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'dummy', 'name': '2iugp272an'}, method='frappe.model.delete_doc.delete_dynamic_links', site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::9af5f7af-5818-4163-88fa-6e5c0c23429a)
+2024-08-02 19:33:26,737 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::9af5f7af-5818-4163-88fa-6e5c0c23429a)
+2024-08-02 19:33:26,737 Result is kept for 600 seconds
+2024-08-02 19:34:43,102 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'dummy', 'name': '2jviqeof2n'}, method='frappe.model.delete_doc.delete_dynamic_links', site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::1bd0367d-0f34-4035-9c04-93bf84641982)
+2024-08-02 19:34:43,717 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::1bd0367d-0f34-4035-9c04-93bf84641982)
+2024-08-02 19:34:43,717 Result is kept for 600 seconds
+2024-08-02 19:34:43,740 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'dummy', 'name': '24hd0ruprr'}, method='frappe.model.delete_doc.delete_dynamic_links', site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::20c3db82-58ca-45b8-93c8-9961321314c6)
+2024-08-02 19:34:43,993 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::20c3db82-58ca-45b8-93c8-9961321314c6)
+2024-08-02 19:34:43,993 Result is kept for 600 seconds
+2024-08-02 19:39:49,744 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'dummy', 'name': 5}, method='frappe.model.delete_doc.delete_dynamic_links', site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::2d7b8621-774d-4e5d-8d8c-007f0ef65d1d)
+2024-08-02 19:39:49,999 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::2d7b8621-774d-4e5d-8d8c-007f0ef65d1d)
+2024-08-02 19:39:50,000 Result is kept for 600 seconds
+2024-08-02 19:49:40,926 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.ping', kwargs={}, method='frappe.ping', site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::bc675285-7f57-419c-85b8-570080cc1454)
+2024-08-02 19:49:41,071 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::bc675285-7f57-419c-85b8-570080cc1454)
+2024-08-02 19:49:41,073 Result is kept for 600 seconds
+2024-08-02 19:54:09,761 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'test'}, method=<function update_index_for_path at 0x794325e7eb60>, site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::ee623658-f587-4f22-bc27-026a89792c5c)
+2024-08-02 19:54:11,420 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::ee623658-f587-4f22-bc27-026a89792c5c)
+2024-08-02 19:54:11,421 Result is kept for 600 seconds
+2024-08-02 19:54:11,431 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-02 19:54:11,432 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-02 19:54:11,433 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-02 19:54:32,655 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'test'}, method=<function update_index_for_path at 0x794325e7eb60>, site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::ee83de73-0de9-4e8c-90ec-ce6db2242fb0)
+2024-08-02 19:54:34,105 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::ee83de73-0de9-4e8c-90ec-ce6db2242fb0)
+2024-08-02 19:54:34,105 Result is kept for 600 seconds
+2024-08-02 19:54:55,460 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.remove_document_from_index', kwargs={'path': 'test'}, method=<function remove_document_from_index at 0x794325e7ec00>, site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::002fca7e-6c55-40a0-9b6c-667074ad06af)
+2024-08-02 19:54:56,244 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::002fca7e-6c55-40a0-9b6c-667074ad06af)
+2024-08-02 19:54:56,244 Result is kept for 600 seconds
+2024-08-02 19:54:56,250 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.search.website_search.update_index_for_path', kwargs={'path': 'test'}, method=<function update_index_for_path at 0x794325e7eb60>, site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::9509f4ea-f601-46ef-81df-818ab5e8d009)
+2024-08-02 19:54:56,895 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::9509f4ea-f601-46ef-81df-818ab5e8d009)
+2024-08-02 19:54:56,895 Result is kept for 600 seconds
+2024-08-02 19:54:56,902 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.model.delete_doc.delete_dynamic_links', kwargs={'doctype': 'Web Page', 'name': 'testhere'}, method='frappe.model.delete_doc.delete_dynamic_links', site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::6faea3ec-ee01-4c3c-8922-1b151ce2f812)
+2024-08-02 19:54:56,983 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::6faea3ec-ee01-4c3c-8922-1b151ce2f812)
+2024-08-02 19:54:56,984 Result is kept for 600 seconds
+2024-08-02 20:03:51,324 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.core.doctype.user.user.create_contact', kwargs={'user': <User: mnomanch786@gmail.com>, 'ignore_mandatory': True}, method='frappe.core.doctype.user.user.create_contact', site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::0a41fede-172a-40a2-b3b7-6d4a4df4e142)
+2024-08-02 20:03:52,929 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::0a41fede-172a-40a2-b3b7-6d4a4df4e142)
+2024-08-02 20:03:52,929 Result is kept for 600 seconds
+2024-08-02 20:10:37,954 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-02 20:10:37,955 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-02 20:10:37,956 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-02 20:37:38,065 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-02 20:37:38,066 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-02 20:37:38,067 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-02 20:47:07,609 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., kwargs={'doc': {'type': 'Alert', 'document_type': 'dummy', 'document_name': 8, 'su..., method='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::4fdaee3a-3594-4ba9-93e5-bed781a2a672)
+2024-08-02 20:47:08,512 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::4fdaee3a-3594-4ba9-93e5-bed781a2a672)
+2024-08-02 20:47:08,512 Result is kept for 600 seconds
+2024-08-02 20:48:53,682 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., kwargs={'doc': {'type': 'Alert', 'document_type': 'dummy', 'document_name': 8, 'su..., method='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::05be32ce-2322-4c7e-bfa5-3636cdff3245)
+2024-08-02 20:48:54,638 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::05be32ce-2322-4c7e-bfa5-3636cdff3245)
+2024-08-02 20:48:54,638 Result is kept for 600 seconds
+2024-08-02 20:51:02,078 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., kwargs={'doc': {'type': 'Alert', 'document_type': 'dummy', 'document_name': 3, 'su..., method='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::ca5560f0-3504-419a-b154-506a55fd3bd8)
+2024-08-02 20:51:03,010 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::ca5560f0-3504-419a-b154-506a55fd3bd8)
+2024-08-02 20:51:03,010 Result is kept for 600 seconds
+2024-08-02 20:52:23,292 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., kwargs={'doc': {'type': 'Alert', 'document_type': 'dummy', 'document_name': 9, 'su..., method='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., site='frappe-prac.com/', user='Administrator') (frappe-prac.com/::ad1accfb-2186-4dc4-a53d-d047f6ed2016)
+2024-08-02 20:52:23,941 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::ad1accfb-2186-4dc4-a53d-d047f6ed2016)
+2024-08-02 20:52:23,941 Result is kept for 600 seconds
+2024-08-02 20:59:09,027 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-02 20:59:09,029 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-02 20:59:09,030 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-02 21:02:26,615 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., kwargs={'doc': {'type': 'Alert', 'document_type': 'dummy', 'document_name': 3, 'su..., method='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., site='frappe-prac.com/', user='mnomanch786@gmail.com') (frappe-prac.com/::bf6c1084-aec8-4a53-913d-bff852e58e54)
+2024-08-02 21:02:27,685 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::bf6c1084-aec8-4a53-913d-bff852e58e54)
+2024-08-02 21:02:27,685 Result is kept for 600 seconds
+2024-08-02 21:04:24,425 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., kwargs={'doc': {'type': 'Alert', 'document_type': 'dummy', 'document_name': 10, 's..., method='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., site='frappe-prac.com/', user='mnomanch786@gmail.com') (frappe-prac.com/::360c0fc9-458e-4b20-8cbd-75ddcc8dbdad)
+2024-08-02 21:04:25,179 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::360c0fc9-458e-4b20-8cbd-75ddcc8dbdad)
+2024-08-02 21:04:25,179 Result is kept for 600 seconds
+2024-08-02 21:06:04,005 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., kwargs={'doc': {'type': 'Alert', 'document_type': 'dummy', 'document_name': 7, 'su..., method='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., site='frappe-prac.com/', user='mnomanch786@gmail.com') (frappe-prac.com/::e1461e06-5614-45fe-8069-f91ee00586a6)
+2024-08-02 21:06:05,150 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::e1461e06-5614-45fe-8069-f91ee00586a6)
+2024-08-02 21:06:05,152 Result is kept for 600 seconds
+2024-08-02 21:06:54,483 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., kwargs={'doc': {'type': 'Alert', 'document_type': 'dummy', 'document_name': 11, 's..., method='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., site='frappe-prac.com/', user='mnomanch786@gmail.com') (frappe-prac.com/::c41296d5-dcfa-44f2-81c5-d76b9df858e1)
+2024-08-02 21:06:55,095 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::c41296d5-dcfa-44f2-81c5-d76b9df858e1)
+2024-08-02 21:06:55,096 Result is kept for 600 seconds
+2024-08-02 21:07:53,901 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., kwargs={'doc': {'type': 'Alert', 'document_type': 'dummy', 'document_name': 11, 's..., method='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., site='frappe-prac.com/', user='mnomanch786@gmail.com') (frappe-prac.com/::02b7149b-f528-40e8-ae18-8afdd20a3ad9)
+2024-08-02 21:07:54,604 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::02b7149b-f528-40e8-ae18-8afdd20a3ad9)
+2024-08-02 21:07:54,606 Result is kept for 600 seconds
+2024-08-02 21:07:54,627 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., kwargs={'doc': {'type': 'Alert', 'document_type': 'dummy', 'document_name': 11, 's..., method='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., site='frappe-prac.com/', user='mnomanch786@gmail.com') (frappe-prac.com/::d1fa9a9c-4a49-470c-a5ae-07ed728975d1)
+2024-08-02 21:07:55,219 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::d1fa9a9c-4a49-470c-a5ae-07ed728975d1)
+2024-08-02 21:07:55,219 Result is kept for 600 seconds
+2024-08-02 21:14:40,289 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-02 21:14:40,290 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-02 21:14:40,291 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-02 21:41:40,538 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-02 21:41:40,539 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-02 21:41:40,540 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 13:33:05,607 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 13:33:05,609 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 13:33:05,704 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 14:00:05,875 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 14:00:05,880 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 14:00:05,884 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 14:27:06,136 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 14:27:06,137 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 14:27:06,137 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 14:54:06,263 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 14:54:06,264 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 14:54:06,265 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 15:21:06,541 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 15:21:06,545 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 15:21:06,550 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 15:48:06,832 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 15:48:06,833 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 15:48:06,833 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 16:15:07,050 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 16:15:07,051 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 16:15:07,052 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 16:42:07,319 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 16:42:07,320 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 16:42:07,321 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 17:09:07,460 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 17:09:07,461 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 17:09:07,462 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 17:36:07,514 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 17:36:07,516 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 17:36:07,516 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 18:03:07,789 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 18:03:07,789 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 18:03:07,790 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 18:30:07,993 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 18:30:07,995 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 18:30:07,996 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 18:57:08,292 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 18:57:08,293 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 18:57:08,294 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 19:24:08,561 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 19:24:08,562 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 19:24:08,564 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 19:51:08,797 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 19:51:08,799 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 19:51:08,799 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 20:18:09,013 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 20:18:09,014 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 20:18:09,015 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 20:45:09,152 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 20:45:09,153 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 20:45:09,154 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 21:12:09,314 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 21:12:09,315 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 21:12:09,316 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 21:39:09,552 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 21:39:09,553 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 21:39:09,554 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 22:06:09,762 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 22:06:09,762 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 22:06:09,763 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-05 22:33:10,014 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-05 22:33:10,015 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-05 22:33:10,016 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 14:31:39,458 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 14:31:40,300 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 14:31:40,301 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 14:58:40,535 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 14:58:40,537 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 14:58:40,537 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 15:25:40,646 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 15:25:40,648 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 15:25:40,648 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 15:52:40,890 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 15:52:40,893 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 15:52:40,896 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 16:19:41,096 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 16:19:41,097 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 16:19:41,098 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 16:46:41,306 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 16:46:41,307 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 16:46:41,308 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 17:13:41,441 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 17:13:41,442 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 17:13:41,443 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 17:40:41,668 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 17:40:41,671 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 17:40:41,674 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 18:07:41,859 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 18:07:41,860 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 18:07:41,861 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 18:34:42,082 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 18:34:42,084 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 18:34:42,085 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 19:01:42,322 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 19:01:42,323 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 19:01:42,325 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 19:28:42,544 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 19:28:42,545 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 19:28:42,546 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 19:55:42,767 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 19:55:42,770 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 19:55:42,771 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 20:22:43,062 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 20:22:43,064 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 20:22:43,065 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 20:49:43,279 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 20:49:43,281 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 20:49:43,282 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 21:16:43,379 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 21:16:43,381 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 21:16:43,382 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 21:43:43,483 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 21:43:43,485 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 21:43:43,485 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-06 22:10:43,715 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-06 22:10:43,745 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-06 22:10:43,783 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 13:42:30,498 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 13:42:30,633 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 13:42:30,642 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 14:09:30,966 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 14:09:30,968 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 14:09:30,969 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 14:44:00,412 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 14:44:00,417 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 14:44:00,421 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 15:11:00,673 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 15:11:00,674 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 15:11:00,674 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 15:38:00,855 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 15:38:00,855 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 15:38:00,856 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 16:05:01,068 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 16:05:01,069 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 16:05:01,070 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 16:32:01,333 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 16:32:01,334 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 16:32:01,335 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 16:59:01,633 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 16:59:01,634 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 16:59:01,635 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 17:26:01,980 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 17:26:01,982 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 17:26:01,982 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 17:53:02,295 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 17:53:02,298 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 17:53:02,299 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 18:20:02,578 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 18:20:02,578 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 18:20:02,579 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 18:47:02,818 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 18:47:02,820 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 18:47:02,821 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 19:14:03,070 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 19:14:03,072 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 19:14:03,073 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 19:41:03,349 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 19:41:03,376 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 19:41:03,383 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 20:08:03,540 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 20:08:03,542 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 20:08:03,543 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 20:35:03,732 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 20:35:03,734 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 20:35:03,734 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 21:02:04,078 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 21:02:04,080 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 21:02:04,080 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-07 21:29:04,390 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-07 21:29:04,420 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-07 21:29:04,446 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-08 13:58:46,474 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-08 13:58:46,475 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-08 13:58:46,484 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-08 14:25:46,676 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-08 14:25:46,677 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-08 14:25:46,679 Cleaning registries for queue: home-noman-frappe-bench:long
+                                                                                                                                                                                                                                                                2024-08-09 18:59:04,822 Worker rq:worker:6a7fed82ec5c47d7bb622399f7833206 started with PID 477548, version 1.15.1
+2024-08-09 18:59:04,823 Subscribing to channel rq:pubsub:6a7fed82ec5c47d7bb622399f7833206
+2024-08-09 18:59:04,826 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-08-09 18:59:04,827 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-09 18:59:04,831 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-09 18:59:04,838 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-09 19:26:05,001 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-09 19:26:05,003 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-09 19:26:05,004 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-09 19:53:05,307 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-09 19:53:05,308 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-09 19:53:05,309 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-09 20:20:05,602 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-09 20:20:05,603 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-09 20:20:05,603 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-09 20:47:05,851 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-09 20:47:05,852 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-09 20:47:05,853 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-09 21:14:06,085 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-09 21:14:06,087 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-09 21:14:06,088 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-09 21:41:06,382 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-09 21:41:06,383 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-09 21:41:06,384 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-12 00:04:21,993 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-12 00:04:22,001 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-12 00:04:22,002 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-12 13:13:48,404 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-12 13:13:48,405 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-12 13:13:48,412 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-12 13:40:48,588 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-12 13:40:48,589 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-12 13:40:48,590 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-12 14:07:48,895 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-12 14:07:48,896 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-12 14:07:48,896 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-12 14:34:49,068 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-12 14:34:49,069 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-12 14:34:49,070 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-12 15:01:49,353 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-12 15:01:49,354 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-12 15:01:49,364 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-12 15:28:49,589 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-12 15:28:49,590 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-12 15:28:49,591 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-12 15:55:49,760 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-12 15:55:49,800 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-12 15:55:49,808 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-12 16:22:50,000 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-12 16:22:50,002 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-12 16:22:50,003 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-12 16:49:50,106 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-12 16:49:50,107 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-12 16:49:50,108 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-12 17:16:50,332 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-12 17:16:50,333 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-12 17:16:50,334 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-12 17:43:50,580 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-12 17:43:50,581 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-12 17:43:50,582 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-12 18:10:50,873 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-12 18:10:50,874 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-12 18:10:50,875 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-12 18:37:51,019 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-12 18:37:51,021 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-12 18:37:51,022 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-12 19:04:51,144 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-12 19:04:51,151 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-12 19:04:51,152 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-12 19:31:51,308 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-12 19:31:51,310 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-12 19:31:51,310 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-15 15:55:24,740 Worker rq:worker:6c13ddf56b1f4d31a4b02fae6fda75ae started with PID 251757, version 1.15.1
+2024-08-15 15:55:24,751 Subscribing to channel rq:pubsub:6c13ddf56b1f4d31a4b02fae6fda75ae
+2024-08-15 15:55:24,770 *** Listening on home-noman-frappe-bench:short, home-noman-frappe-bench:default, home-noman-frappe-bench:long...
+2024-08-15 15:55:24,773 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-15 15:55:24,789 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-15 15:55:24,816 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-15 16:14:29,629 home-noman-frappe-bench:default: frappe.utils.background_jobs.execute_job(event=None, is_async=True, job_name='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., kwargs={'doc': {'type': 'Alert', 'document_type': 'dummy', 'document_name': 8, 'su..., method='frappe.desk.doctype.notification_log.notification_log.make_notification_lo..., site='frappe-prac.com/', user='mnomanch786@gmail.com') (frappe-prac.com/::a7e9bf21-def0-416d-9fde-ada2fe3aeac6)
+2024-08-15 16:14:31,346 home-noman-frappe-bench:default: Job OK (frappe-prac.com/::a7e9bf21-def0-416d-9fde-ada2fe3aeac6)
+2024-08-15 16:14:31,346 Result is kept for 600 seconds
+2024-08-15 16:21:16,455 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-15 16:21:16,456 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-15 16:21:16,457 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-15 16:48:16,769 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-15 16:48:16,860 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-15 16:48:16,920 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-15 17:15:17,141 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-15 17:15:17,143 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-15 17:15:17,144 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-15 17:42:17,279 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-15 17:42:17,280 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-15 17:42:17,281 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-15 18:09:17,483 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-15 18:09:17,484 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-15 18:09:17,485 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-15 18:36:17,772 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-15 18:36:17,773 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-15 18:36:17,773 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-15 19:03:18,012 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-15 19:03:18,013 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-15 19:03:18,013 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-15 19:30:18,207 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-15 19:30:18,208 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-15 19:30:18,209 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-15 19:57:18,425 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-15 19:57:18,426 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-15 19:57:18,427 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-15 20:24:18,625 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-15 20:24:18,626 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-15 20:24:18,627 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-15 20:51:18,854 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-15 20:51:18,855 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-15 20:51:18,856 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-15 21:18:19,061 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-15 21:18:19,062 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-15 21:18:19,062 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-15 21:45:19,241 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-15 21:45:19,249 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-15 21:45:19,255 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-16 13:01:40,999 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-16 13:01:43,418 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-16 13:01:43,419 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-16 13:28:43,672 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-16 13:28:43,673 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-16 13:28:43,674 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-16 13:55:43,920 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-16 13:55:43,921 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-16 13:55:43,922 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-16 14:22:44,165 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-16 14:22:44,166 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-16 14:22:44,167 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-16 14:49:44,378 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-16 14:49:44,379 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-16 14:49:44,380 Cleaning registries for queue: home-noman-frappe-bench:long
+2024-08-16 15:16:44,522 Cleaning registries for queue: home-noman-frappe-bench:short
+2024-08-16 15:16:44,523 Cleaning registries for queue: home-noman-frappe-bench:default
+2024-08-16 15:16:44,523 Cleaning registries for queue: home-noman-frappe-bench:long
